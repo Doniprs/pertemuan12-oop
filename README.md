@@ -20,7 +20,7 @@
 
 4. Lalu buka file `Praktikum6.py` dan masukan codingan sebagai berikut lalu run dengan mengetikan perintah berikut diterminal `python Praktikum6.py`:
 
-      ![Praktikum](img/praktikum.png)
+      ![Praktikum](img/Praktikum.png)
 
       dan Berikut hasilnya :
 
